@@ -1,10 +1,12 @@
 <h1 align="left">Hi there, I'm Sergey - aka Urchien 👋</h1>
 
-###
-
 <p align="left">I'm a Data Scientist from Russia</p>
 
-###
+### 
+
+<p align="left">🔭 I am currently looking for a job in the field of Data Sciense<br>📚 I am currently studying wherever possible! I absorb information like a sponge 🤓<br>🎯 Goals: Develop an algorithm for determining the mood of a coffee capsule by its shape, so that you can always choose the most suitable option for your mood ☕😃<br>🎲 Fun fact: At the age of 40, I quit my job at the customs office to become a data scientist 🙈</p>
+
+### Connect with me:
 
 <div align="left">
   <a href="https://t.me/Urchien" target="_blank">
@@ -23,10 +25,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
   </a>
 </div>
-
-###
-
-<p align="left">🔭 I am currently looking for a job in the field of Data Sciense<br>📚 I am currently studying wherever possible! I absorb information like a sponge 🤓<br>🎯 Goals: Develop an algorithm for determining the mood of a coffee capsule by its shape, so that you can always choose the most suitable option for your mood ☕😃<br>🎲 Fun fact: At the age of 40, I quit my job at the customs office to become a data scientist 🙈</p>
 
 ###
 
