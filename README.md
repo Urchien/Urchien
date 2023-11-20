@@ -70,4 +70,4 @@
 
 ###
 
-  <img src="https://raw.githubusercontent.com/Urchien/Urchien/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Urchien/Urchien/output/github-contribution-grid-snake.svg" alt="Snake animation" />
