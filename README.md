@@ -71,8 +71,6 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://threeal.github.io/threeal/grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://threeal.github.io/threeal/grid-snake-light.svg" />
   <img src="https://raw.githubusercontent.com/Urchien/Urchien/output/snake.svg" alt="Snake animation" />
 </picture>
 
