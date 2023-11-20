@@ -1,4 +1,4 @@
-<h1 align="left">Hi there, I'm Sergey - aka urchien 👋</h1>
+<h1 align="left">Hi there, I'm Sergey - aka Urchien 👋</h1>
 
 ###
 
