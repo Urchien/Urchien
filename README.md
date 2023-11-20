@@ -1,4 +1,4 @@
-<h1 align="left">Hi there, I'm Sergey - aka urchien 👋</h1>
+<h1 align="left">Hi there, I'm Sergey - aka Urchien 👋</h1>
 
 ###
 
@@ -70,9 +70,15 @@
 
 ###
 
+<<<<<<< HEAD
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://threeal.github.io/threeal/grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://threeal.github.io/threeal/grid-snake-light.svg" />
   <img alt="GitHub contribution animation" src="https://threeal.github.io/threeal/grid-snake.svg" />
 </picture>
 ###
+=======
+<img src="https://raw.githubusercontent.com/Urchien/Urchien/output/snake.svg" alt="Snake animation" />
+
+###
+>>>>>>> 7549be3e26f3a3ff9b170dc8ecd1639c57140c37
