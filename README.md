@@ -4,7 +4,7 @@
 
 ### 
 
-<p align="left">🔭 I am currently looking for a job in the field of Data Sciense<br>📚 I am currently studying wherever possible! I absorb information like a sponge 🤓<br>🎯 Goals: Develop an algorithm for determining the mood of a coffee capsule by its shape, so that you can always choose the most suitable option for your mood ☕😃<br>🎲 Fun fact: At the age of 40, I quit my job at the customs office to become a data scientist 🙈</p>
+<p align="left">🔭 I am currently looking for a job in the field of Data Sciense<br>📚 I am currently studying wherever possible! I absorb information like a sponge 🤓<br>🎯 Goals: Develop an algorithm for determining the mood of a coffee capsule by its shape, so that you can always choose the most suitable option for your mood ☕😃<br>🎲 Fun fact: At the age of 40, I quit my job at the customs office to become a data scientist, but not positive! 🙈</p>
 
 ### Connect with me:
 
